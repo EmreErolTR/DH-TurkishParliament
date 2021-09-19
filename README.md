@@ -1,2 +1,3 @@
-# DH-TurkishParliament
-Digital Humanities Turkish Parliament 
+# DH-TurkishParliament 
+THIS REPOSITORY WILL BE UPDATED ONCE THE RESEARCH IS FINISHED. ALL DATA WILL BE ACCESSIBLE IN THE FUTURE. 
+
